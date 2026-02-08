@@ -58,16 +58,16 @@ zomato_app/
 
 ## Installation & Setup
 
-cd backend
-npm install
-npm start
+- cd backend
+- npm install
+- npm start
 
 
 ## Frontend
 
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 ## Purpose of Project
 
