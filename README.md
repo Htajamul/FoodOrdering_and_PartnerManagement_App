@@ -1,4 +1,4 @@
-# Zomato Clone – MERN Stack Project
+# FoodOrdering and PartnerManagement App – MERN Stack Project
 
 A full-stack Food Ordering and Partner Management App  built using the MERN stack.  
 This project allows users to browse food items, view restaurants, and manage orders.
